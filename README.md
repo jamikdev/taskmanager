@@ -1,3 +1,6 @@
+<img width="530" height="530" alt="Q2fvqHvKk143zJ7aa8jDM75hH6w" src="https://github.com/user-attachments/assets/34270cf3-85ae-4f8a-961a-e1b204a188fa" />
+
+
 # Jamikdev Task Manager
 
 A minimal, terminal-based CLI application built in C++ for managing personal tasks. 
